@@ -1,12 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
+
+
 body {
 	
 	background: url("http://i.imgur.com/76zW7PT.jpg");
     background-size: cover;
     font-size: 16px;
+    font-family: Dosis;
+    font-style: normal;
+    font-weight: 300;
+    background-color: #000;
+    
 }
 
 h1 {
 
-	font-size: 5em; 
-	text-decoration: white;
+	font-size: 5em;
+	
+	
 }
